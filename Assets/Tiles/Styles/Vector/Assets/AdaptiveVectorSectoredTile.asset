@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcb31319e4cb98e43b53b0a0ef256659, type: 3}
+  m_Name: AdaptiveVectorSectoredTile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1633706634453104887, guid: 4d295abae79280f42a5826be49150356, type: 3}
+  wrapper: {fileID: 4341557463426453315, guid: eb3d29240b59724489e05788e84f48df, type: 3}
+  defaultScaleZ: 0.7
